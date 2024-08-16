@@ -1,0 +1,15 @@
+package com.tesco.eligibe.dao;
+
+import org.springframework.stereotype.Component;
+
+
+@Component
+public class EligibilityDetailsDaoImpl implements IEligibilityDetailsDao {
+
+	@Override
+	public OfferDetailsDaoResp getOffers(OfferDetailsDaoRequest daoDetailsRuquest) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

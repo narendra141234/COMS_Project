@@ -1,0 +1,10 @@
+package com.tesco.eligibe.dao;
+
+import com.tesco.eligible.model.OfferDetailsDaoRequest;
+import com.tesco.eligible.model.OfferDetailsDaoResp;
+
+public interface IEligibilityDetailsDao {
+	
+	OfferDetailsDaoResp getOffers(OfferDetailsDaoRequest daoDetailsRuquest);
+
+}

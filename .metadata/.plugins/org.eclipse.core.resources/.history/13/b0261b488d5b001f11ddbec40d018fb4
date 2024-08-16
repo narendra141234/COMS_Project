@@ -1,0 +1,10 @@
+package com.tesco.eligibile.service;
+
+import com.tesco.offers.model.OfferDetailsRequest;
+import com.tesco.offers.model.OfferDetailsResponse;
+
+public interface IEligibilityDetailsService {
+	
+	OfferDetailsResponse getOffers(OfferDetailsRequest offerDetailsRequest);
+
+}

@@ -1,0 +1,5 @@
+package com.tesco.eligibile.exception;
+
+public class EligibilityDetailsRequestInvalidException {
+
+}

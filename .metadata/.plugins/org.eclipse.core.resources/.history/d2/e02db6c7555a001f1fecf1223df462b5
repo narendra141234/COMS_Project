@@ -1,0 +1,10 @@
+package java.com.tesco.eligibe.dao;
+
+import com.tesco.offers.model.OfferDetailsDaoRequest;
+import com.tesco.offers.model.OfferDetailsDaoResp;
+
+public interface IOfferDetailsDao {
+	
+	OfferDetailsDaoResp getOffers(OfferDetailsDaoRequest daoDetailsRuquest);
+
+}

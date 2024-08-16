@@ -1,0 +1,65 @@
+1723650248078	Delete element
+1723650280049	Rename package 'java.com.tesco.offers.builder'
+1723650331709	Rename type 'OfferDetailsRequestBuilder'
+1723650379418	Rename type 'OfferDetailsRespBuilder'
+1723650410041	Rename package 'java.com.tesco.offers.config'
+1723650445599	Rename type 'OfferDetailsSwaggerConfig'
+1723650482075	Rename package 'java.com.tesco.offers.controller'
+1723650504220	Rename type 'OfferDetailsController'
+1723650577605	Rename type 'OfferDetailsControllerAdvice'
+1723650652565	Rename package 'com.tesco.eligibility.config'
+1723650672569	Rename package 'com.tesco.eligibility.controller'
+1723650981044	Rename package 'java.com.tesco.offers.dao'
+1723650994133	Rename package 'java.com.tesco.eligibe.dao'
+1723651035382	Rename type 'IOfferDetailsDao'
+1723651055890	Rename type 'OfferDetailsDaoImpl'
+1723651086693	Rename type 'OfferDetailsRequestInvalidException'
+1723651114835	Rename package 'java.com.tesco.offers.exception'
+1723651170483	Rename type 'IOfferDetailsService'
+1723651197719	Rename package 'java.com.tesco.offers.service'
+1723651215710	Rename package 'com.tescoeligibile.service'
+1723651233222	Rename type 'OfferDetailsServiceImpl'
+1723651477035	Rename package 'java.com.tesco.offers.model'
+1723651492875	Rename package 'java.com.tesco.eligible.model'
+1723651537953	Rename type 'OfferDetailsConstant'
+1723651555341	Rename type 'OfferDetailsEnum'
+1723651573680	Rename type 'OfferDetailsUtil'
+1723651597405	Rename package 'java.com.tesco.offers.util'
+1723651800265	Rename package 'java.com.tesco.offers.serviceclient'
+1723784733691	Delete element
+1723784740031	Delete element
+1723784746001	Delete element
+1723784752797	Delete element
+1723784762299	Delete element
+1723784768406	Delete element
+1723784772759	Delete element
+1723784777968	Delete element
+1723784783016	Delete element
+1723784790014	Delete element
+1723784849267	Delete element
+1723784909937	Rename package 'java.com.tesco.offers.builder'
+1723784920765	Rename package 'java.com.tesco.eligible.builder'
+1723784946740	Rename package 'java.com.tesco.offers.config'
+1723784965482	Rename package 'java.com.tesco.offers.controller'
+1723784975879	Rename package 'java.com.tesco.eligible.controller'
+1723784996966	Rename package 'java.com.tesco.offers.dao'
+1723785015532	Rename package 'java.com.tesco.offers.exception'
+1723785035619	Rename package 'java.com.tesco.offers.model'
+1723785052322	Rename package 'java.com.tesco.offers.service'
+1723785070620	Rename package 'java.com.tesco.offers.serviceclient'
+1723785085643	Rename package 'java.com.tesco.offers.util'
+1723785100628	Rename package 'java.com.tesco.offers.validator'
+1723785163776	Rename type 'OfferDetailsRequestBuilder'
+1723785197151	Rename type 'OfferDetailsRespBuilder'
+1723785251003	Rename type 'OfferDetailsSwaggerConfig'
+1723785273516	Rename type 'OfferDetailsController'
+1723785292989	Rename type 'OfferDetailsControllerAdvice'
+1723785313593	Rename type 'IOfferDetailsDao'
+1723785326462	Rename type 'OfferDetailsDaoImpl'
+1723785358082	Rename type 'OfferDetailsRequestInvalidException'
+1723785412921	Rename type 'IOfferDetailsService'
+1723785426709	Rename type 'OfferDetailsServiceImpl'
+1723785472380	Rename type 'OfferDetailsConstant'
+1723785483135	Rename type 'OfferDetailsEnum'
+1723785497179	Rename type 'OfferDetailsUtil'
+1723785526478	Rename type 'OfferDetailsRequestValidator'

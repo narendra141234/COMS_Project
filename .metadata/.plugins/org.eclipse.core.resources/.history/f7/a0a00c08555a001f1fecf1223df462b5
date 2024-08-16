@@ -1,0 +1,5 @@
+package com.tesco.eligibility.controller;
+
+public class EligibilityDetailsControllerAdvice {
+
+}

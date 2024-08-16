@@ -1,0 +1,9 @@
+package com.tesco.offers.dao;
+
+import com.tesco.offers.model.OfferDetailsDaoRequest;
+
+public interface IOfferDetailsDao {
+	
+	OfferDetailsDaoResp getOffers(OfferDetailsDaoRequest daoDetailsRuquest);
+
+}

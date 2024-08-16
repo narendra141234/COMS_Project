@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.tesco.offers.dao.POfferDetailsDaoImpl"/>
+    <fullyQualifiedTypeName name="com.tesco.offers.dao.MOfferDetailsDaoImpl"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.tesco.offers.dao.GOfferDetailsDaoImpl"/>
+</qualifiedTypeNameHistroy>

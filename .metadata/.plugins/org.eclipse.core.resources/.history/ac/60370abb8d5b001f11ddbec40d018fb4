@@ -1,0 +1,5 @@
+package java.com.tesco.eligible.controller;
+
+public class OfferDetailsControllerAdvice {
+
+}

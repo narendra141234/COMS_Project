@@ -1,0 +1,19 @@
+package com.tesco.offers.dao;
+
+import org.springframework.stereotype.Component;
+
+import com.tesco.offers.model.OfferDetailsDaoRequest;
+import com.tesco.offers.model.OfferDetailsDaoResp;
+
+@Component
+public class GOfferDetailsDaoImpl implements IOfferDetailsDao {
+
+	@Override
+	public OfferDetailsDaoResp getOffers(OfferDetailsDaoRequest daoDetailsRuquest) {
+		
+		//1. get the request from service and calls to backend system to get the goffers
+		
+		return null;
+	}
+
+}
