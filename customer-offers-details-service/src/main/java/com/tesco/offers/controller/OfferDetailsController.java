@@ -1,5 +1,7 @@
 package com.tesco.offers.controller;
 
+import java.util.concurrent.ExecutionException;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -32,7 +34,7 @@ public class OfferDetailsController {
 											@RequestHeader("X-Channel-Id") String channelid,
 											@RequestHeader("X-request-Id") String requestId,
 											@RequestHeader("X-messagets-Id") String messageTs,
-											@RequestHeader("X-authtoken-Id") String authtoken) {
+											@RequestHeader("X-authtoken-Id") String authtoken) throws InterruptedException, ExecutionException {
 		
 		OfferDetailsRequest offerDetailsRequest = new OfferDetailsRequest();
 		
@@ -49,7 +51,7 @@ public class OfferDetailsController {
 											@RequestHeader("X-Channel-Id") String channelid,
 											@RequestHeader("X-request-Id") String requestId,
 											@RequestHeader("X-messagets-Id") String messageTs,
-											@RequestHeader("X-authtoken-Id") String authtoken) {
+											@RequestHeader("X-authtoken-Id") String authtoken) throws InterruptedException, ExecutionException {
 		
 		OfferDetailsRequest offerDetailsRequest = new OfferDetailsRequest();
 		
@@ -63,7 +65,7 @@ public class OfferDetailsController {
 											@RequestHeader("X-Channel-Id") String channelid,
 											@RequestHeader("X-request-Id") String requestId,
 											@RequestHeader("X-messagets-Id") String messageTs,
-											@RequestHeader("X-authtoken-Id") String authtoken) {
+											@RequestHeader("X-authtoken-Id") String authtoken) throws InterruptedException, ExecutionException {
 		
 		
 		offerDetailsReqValidator.validateRequest(offerDetailsRequest);
